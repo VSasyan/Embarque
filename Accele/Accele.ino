@@ -1,5 +1,5 @@
 /*
-	Accele
+	Accele (i2c communication)
 	Some tools.
  */
 #include <Wire.h>
