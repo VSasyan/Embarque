@@ -6,7 +6,7 @@
 int analogID = A0;
 int sensorValue = 0;
 
-float maxi = 280;
+float maxi = 1023;
 float led_5 = maxi / 6 * 5;
 float led_4 = maxi / 6 * 4;
 float led_3 = maxi / 6 * 3;
